@@ -4,53 +4,53 @@
 
 - Datasetc contains following columns 
 
-1)name                 object
+  1)name               -  object
 
-2)MDVP:Fo(Hz)         float64
+  2)MDVP:Fo(Hz)        -  float64
 
-3)MDVP:Fhi(Hz)        float64
+  3)MDVP:Fhi(Hz)       -  float64
 
-4)MDVP:Flo(Hz)        float64
+  4)MDVP:Flo(Hz)       -  float64
 
-5)MDVP:Jitter(%)      float64
+  5)MDVP:Jitter(%)     -  float64
 
-6)MDVP:Jitter(Abs)    float64
+  6)MDVP:Jitter(Abs)   -  float64
 
-7)MDVP:RAP            float64
+  7)MDVP:RAP           -  float64
 
-8)MDVP:PPQ            float64
+  8)MDVP:PPQ           -  float64
 
-9)Jitter:DDP          float64
+  9)Jitter:DDP         -  float64
 
-10)MDVP:Shimmer        float64
+  10)MDVP:Shimmer      -  float64
 
-11)MDVP:Shimmer(dB)    float64
+  11)MDVP:Shimmer(dB)  -  float64
 
-12)Shimmer:APQ3        float64
+  12)Shimmer:APQ3      -  float64
 
-13)Shimmer:APQ5        float64
+  13)Shimmer:APQ5      -  float64
 
-14)MDVP:APQ            float64
+  14)MDVP:APQ          -  float64
 
-15)Shimmer:DDA         float64
+  15)Shimmer:DDA       -  float64
 
-16)NHR                 float64
+  16)NHR               -  float64
 
-17)HNR                 float64
+  17)HNR               -  float64
 
-18)status                int64
+  18)status            -    int64
 
-19)RPDE                float64
+  19)RPDE              -  float64
 
-20)DFA                 float64
+  20)DFA               -   float64
 
-21)spread1             float64
+  21)spread1           -   float64
 
-22)spread2             float64
+  22)spread2           -   float64
 
-23)D2                  float64
+  23)D2               -    float64
 
-24)PPE                 float64
+  24)PPE               -  float64
 
 - Data visualization done with using various plots.
  
