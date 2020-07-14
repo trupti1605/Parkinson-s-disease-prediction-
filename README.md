@@ -1,8 +1,9 @@
 # Parkinson-s-disease-prediction-
 
-Parkinson’s disease is a progressive disorder of the central nervous system affecting movement and inducing tremors and stiffness. It has 5 stages to it and affects more than 1 million individuals every year in India. This is chronic and has no cure yet. It is a neurodegenerative disorder affecting dopamine-producing neurons in the brain.
+### Parkinson’s disease is a progressive disorder of the central nervous system affecting movement and inducing tremors and stiffness. It has 5 stages to it and affects more than 1 million individuals every year in India. This is chronic and has no cure yet. It is a neurodegenerative disorder affecting dopamine-producing neurons in the brain.
 
-Datasetc contains following columns 
+- Datasetc contains following columns 
+
 1)name                 object
 
 2)MDVP:Fo(Hz)         float64
@@ -51,12 +52,12 @@ Datasetc contains following columns
 
 24)PPE                 float64
 
-Data visualization done with using various plots.
+- Data visualization done with using various plots.
  
-Machine learning algorithm used 
+- Machine learning algorithm used 
 
-1) XGBOOST 
+   1) XGBOOST 
 
-2) Random Forest classifier 
+   2) Random Forest classifier 
 
-3) Naive Bayes 
+   3) Naive Bayes 
